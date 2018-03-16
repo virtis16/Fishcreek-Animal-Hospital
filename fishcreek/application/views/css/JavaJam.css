@@ -1,0 +1,180 @@
+body{
+    font-family: Verdana ;
+    color: #221811;
+    background-image: url("../img/background.gif");
+    background-color: #cccccc;
+}
+
+h1{
+     background-color: #D2B48C; 
+     line-height : 200%;
+     text-align:center;
+}
+
+
+.nav-bar{
+	float: left;
+    width: 60px;
+    /*padding: 0px 15px 15px 60px;*/
+}
+nav{ 
+
+     text-align: center;
+     font-weight:bold;
+}
+
+#wrapper {
+	
+    margin:15px auto;
+     width: 80%;
+
+     
+}
+ 
+footer{
+     background-color: #D2B48C;
+     text-align: center;
+     font-size: 0.60em;
+     font-style: italic;
+}
+ 
+.margin-left5{
+ margin: 0% 0% 0% 5%;
+ }
+ 
+ .full-content{
+ background: #231814;
+ box-shadow: 2px 2px 1px #888888;
+ 
+ }
+
+ 
+
+  .padding-left15px{
+ padding-left: 15px;
+ }
+ 
+ 
+ 
+ /****************************/
+ .main-header{
+ height: 90px;
+ background: #D2B48C;
+ text-align: left;
+ 
+ }
+
+ 
+ .main-heading{
+    padding-top: 15px;
+    padding-left: 10px;
+  text-align: left;
+      margin: 0;
+ }
+ 
+  .main{
+ background:#FCEBB6;
+ margin-left: 120px;
+ border-bottom: 1px solid;
+ }
+ 
+ .nav-bar img{
+ height: 85px;
+ }
+ 
+ .nav-bar nav{
+ padding: 25px 30px;
+ color: #FCEBB6;
+ text-align: center;
+ }
+  .nav-bar nav a{
+   color: #FCEBB6;
+   text-decoration: none;
+   }
+
+     .nav-bar nav a:VISITED{
+   color: rgb(255, 205, 108);
+   text-decoration: none;
+   }
+   
+ .main-img{
+ width: 100%;
+ height: 170px;
+ }
+ .address{
+ margin-left: 40px;
+ }
+ 
+ .main-content{
+ padding-left: 15px;
+ }
+ .main-content h3{
+ margin-left: 70px;
+ }
+ .main-content h4{
+ margin-left: 50px;
+ }
+ .main-content p{
+ margin-left: 35px;
+ }
+ 
+ 
+ .margin-left35px{
+ margin-left: 35px;
+ }
+ 
+ .main-img{
+ height: 170px;
+ overflow: hidden;
+ width: 100%;
+ }
+ 
+ .month-header{
+box-shadow: 1px 1px 1px #888888;
+background: #D2B48C;
+border-bottom: 1px solid;
+padding-left: 40px;
+ }
+ 
+ .music-table{
+ margin-left: 180px;
+ border: 2px solid black;
+ text-align: center;
+ }
+.music-table td{
+	 vertical-align: top;
+	 padding: 10px;
+         border: 1px Solid;
+}
+.music-table th{
+	 vertical-align: top;
+         padding: 10px 60px;
+         border: 2px Solid;
+}
+
+.blank-line{
+height: 20px; background: #231814;}
+
+.music-table img{
+height:50px; width:50px;;
+}
+.job-table td{
+   padding: 5px 0px 5px 25px;
+}
+
+.width-200px{
+    width: 200px;
+}
+.txt-rght-align{
+    text-align: right;
+    
+}
+.width-225px{
+    width: 225px;
+}
+
+
+.margin-top20px{
+    margin-top: 20px;
+}
+
